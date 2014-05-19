@@ -1,0 +1,3 @@
+[submodule "vendors/git-extras"]
+	path = vendors/git-extras
+	url = https://github.com/visionmedia/git-extras.git
