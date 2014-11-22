@@ -21,7 +21,15 @@ git clone git@github.com:ovr/hydrator.git
 
 cd ..
 mkdir lynx
+cd lynx
 
 git clone git@github.com:lynx/lynx.git
 git clone git@github.com:lynx/benchmark.git
 git clone git@github.com:lynx/docs.git
+
+cd ..
+mkdir phalcon
+cd phalcon
+
+git clone git@github.com:phalcon/zephir.git
+git clone -b 2.0.0 https://github.com/phalcon/cphalcon.git ./phalcon2
