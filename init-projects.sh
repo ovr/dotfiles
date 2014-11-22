@@ -18,3 +18,10 @@ git clone git@github.com:ovr/cacher.git
 git clone git@github.com:ovr/vk-music-sync.git
 git clone git@github.com:ovr/cacher-ext.git
 git clone git@github.com:ovr/hydrator.git
+
+cd ..
+mkdir lynx
+
+git clone git@github.com:lynx/lynx.git
+git clone git@github.com:lynx/benchmark.git
+git clone git@github.com:lynx/docs.git
