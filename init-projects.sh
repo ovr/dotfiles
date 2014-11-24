@@ -19,6 +19,7 @@ git clone git@github.com:ovr/vk-music-sync.git
 git clone git@github.com:ovr/cacher-ext.git
 git clone git@github.com:ovr/hydrator.git
 git clone git@github.com:ovr/how-to-become-profesional-php-coder-ru.git
+git clone git@github.com:ovr/spellcheck-cli.git
 
 cd ..
 mkdir lynx
